@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Srikanth-red)](https://www.youtube.com/@ms.poonamchauhan743)
-[![Linkedin Badge](https://img.shields.io/badge/-Srikanth Kodali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[(https://www.linkedin.com/in/srikanth-kodali-482384115/))]
+[![YouTube Badge](https://img.shields.io/badge/YouTube-PoonamChauhan-red)](https://www.youtube.com/@ms.poonamchauhan743)
+[![Linkedin Badge](https://img.shields.io/badge/-Poonam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/poonam-chauhan-64a97159/)](https://www.linkedin.com/in/poonam-chauhan-64a97159/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Poonam-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
 [![Website Badge](https://img.shields.io/badge/WebSite-Poonam-green)](https://poonamchauhan229.github.io/Portfolio_Website/)
 
@@ -10,12 +10,12 @@ Full Stack Solution Architect
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql)
 
 
-![Visitor Count](https://profile-counter.glitch.me/skkodali8/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/poonamchauhan229/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">    
-    <img src="https://github-profile-trophy.vercel.app/?username=skkodali8&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=poonamchauhan229&column=7"/>
   </a>
 </div>
 
